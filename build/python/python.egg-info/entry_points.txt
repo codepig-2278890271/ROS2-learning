@@ -1,0 +1,5 @@
+[console_scripts]
+pub = python.publisher_node:main
+sub = python.subscriber_node:main
+turtle = python.turtle_control:main
+
