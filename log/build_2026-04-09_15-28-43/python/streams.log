@@ -1,0 +1,26 @@
+[0.350s] Invoking command in '/home/zhuzeyu/ROS2-learning/src/python': PYTHONPATH=/home/zhuzeyu/ROS2-learning/build/python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/ROS2-learning/install/python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python build --build-base /home/zhuzeyu/ROS2-learning/build/python/build install --record /home/zhuzeyu/ROS2-learning/build/python/install.log --single-version-externally-managed install_data
+[0.484s] running egg_info
+[0.485s] writing ../../build/python/python.egg-info/PKG-INFO
+[0.485s] writing dependency_links to ../../build/python/python.egg-info/dependency_links.txt
+[0.485s] writing entry points to ../../build/python/python.egg-info/entry_points.txt
+[0.485s] writing requirements to ../../build/python/python.egg-info/requires.txt
+[0.485s] writing top-level names to ../../build/python/python.egg-info/top_level.txt
+[0.486s] reading manifest file '../../build/python/python.egg-info/SOURCES.txt'
+[0.486s] writing manifest file '../../build/python/python.egg-info/SOURCES.txt'
+[0.486s] running build
+[0.486s] running build_py
+[0.487s] running install
+[0.487s] running install_lib
+[0.488s] running install_data
+[0.488s] copying package.xml -> /home/zhuzeyu/ROS2-learning/install/python/share/python
+[0.488s] creating /home/zhuzeyu/ROS2-learning/install/python/share/python/launch
+[0.488s] copying launch/multi_nodes_launch.py -> /home/zhuzeyu/ROS2-learning/install/python/share/python/launch
+[0.488s] running install_egg_info
+[0.489s] removing '/home/zhuzeyu/ROS2-learning/install/python/lib/python3.10/site-packages/python-0.0.0-py3.10.egg-info' (and everything under it)
+[0.489s] Copying ../../build/python/python.egg-info to /home/zhuzeyu/ROS2-learning/install/python/lib/python3.10/site-packages/python-0.0.0-py3.10.egg-info
+[0.489s] running install_scripts
+[0.503s] Installing pub script to /home/zhuzeyu/ROS2-learning/install/python/lib/python
+[0.503s] Installing sub script to /home/zhuzeyu/ROS2-learning/install/python/lib/python
+[0.503s] Installing turtle script to /home/zhuzeyu/ROS2-learning/install/python/lib/python
+[0.503s] writing list of installed files to '/home/zhuzeyu/ROS2-learning/build/python/install.log'
+[0.518s] Invoked command in '/home/zhuzeyu/ROS2-learning/src/python' returned '0': PYTHONPATH=/home/zhuzeyu/ROS2-learning/build/python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/ROS2-learning/install/python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python build --build-base /home/zhuzeyu/ROS2-learning/build/python/build install --record /home/zhuzeyu/ROS2-learning/build/python/install.log --single-version-externally-managed install_data
