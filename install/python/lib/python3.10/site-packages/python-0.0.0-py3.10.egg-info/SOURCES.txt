@@ -10,6 +10,8 @@ setup.py
 ../../build/python/python.egg-info/zip-safe
 python/__init__.py
 python/publisher_node.py
+python/service_client.py
+python/service_node.py
 python/subscriber_node.py
 python/turtle_control.py
 resource/python

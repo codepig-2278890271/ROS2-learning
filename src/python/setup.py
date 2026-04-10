@@ -27,6 +27,8 @@ setup(
         'pub = python.publisher_node:main',
         'sub = python.subscriber_node:main',
         'turtle = python.turtle_control:main',
+        'service = python.service_node:main',
+        'client = python.service_client:main',
         ],
     },
 )
