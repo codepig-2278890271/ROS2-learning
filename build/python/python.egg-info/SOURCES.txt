@@ -9,12 +9,10 @@ setup.py
 ../../build/python/python.egg-info/top_level.txt
 ../../build/python/python.egg-info/zip-safe
 python/__init__.py
+python/fishros_python_node.py
 python/publisher_node.py
 python/service_client.py
 python/service_node.py
 python/subscriber_node.py
 python/turtle_control.py
 resource/python
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py
