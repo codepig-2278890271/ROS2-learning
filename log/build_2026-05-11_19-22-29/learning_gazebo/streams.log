@@ -1,0 +1,64 @@
+[2.428s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_gazebo': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_gazebo build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo/install.log --single-version-externally-managed install_data
+[2.819s] running egg_info
+[2.820s] creating ../build/learning_gazebo/learning_gazebo.egg-info
+[2.820s] writing ../build/learning_gazebo/learning_gazebo.egg-info/PKG-INFO
+[2.820s] writing dependency_links to ../build/learning_gazebo/learning_gazebo.egg-info/dependency_links.txt
+[2.820s] writing entry points to ../build/learning_gazebo/learning_gazebo.egg-info/entry_points.txt
+[2.821s] writing requirements to ../build/learning_gazebo/learning_gazebo.egg-info/requires.txt
+[2.821s] writing top-level names to ../build/learning_gazebo/learning_gazebo.egg-info/top_level.txt
+[2.821s] writing manifest file '../build/learning_gazebo/learning_gazebo.egg-info/SOURCES.txt'
+[2.823s] reading manifest file '../build/learning_gazebo/learning_gazebo.egg-info/SOURCES.txt'
+[2.824s] writing manifest file '../build/learning_gazebo/learning_gazebo.egg-info/SOURCES.txt'
+[2.824s] running build
+[2.824s] running build_py
+[2.825s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo/build
+[2.825s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo/build/lib
+[2.825s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo/build/lib/learning_gazebo
+[2.825s] copying learning_gazebo/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo/build/lib/learning_gazebo
+[2.825s] running install
+[2.825s] running install_lib
+[2.826s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo
+[2.826s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo/build/lib/learning_gazebo/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo
+[2.827s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo/__init__.py to __init__.cpython-310.pyc
+[2.827s] running install_data
+[2.827s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/ament_index
+[2.827s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/ament_index/resource_index
+[2.827s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/ament_index/resource_index/packages
+[2.828s] copying resource/learning_gazebo -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/ament_index/resource_index/packages
+[2.828s] copying package.xml -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo
+[2.828s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/launch
+[2.828s] copying launch/mbot.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/launch
+[2.828s] copying launch/load_mbot_camera_into_gazebo.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/launch
+[2.828s] copying launch/mbot_laser.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/launch
+[2.829s] copying launch/load_mbot_laser_into_gazebo.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/launch
+[2.829s] copying launch/load_urdf_into_gazebo.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/launch
+[2.829s] copying launch/mbot_camera.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/launch
+[2.829s] copying launch/load_mbot_rgbd_into_gazebo.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/launch
+[2.829s] copying launch/mbot_rgbd.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/launch
+[2.829s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/urdf
+[2.829s] copying urdf/mbot_with_rgbd_gazebo.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/urdf
+[2.829s] copying urdf/mbot_with_kinect_gazebo.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/urdf
+[2.829s] copying urdf/two_wheeled_robot_nav2.urdf -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/urdf
+[2.829s] copying urdf/mbot_with_camera_gazebo.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/urdf
+[2.829s] copying urdf/mbot_base_gazebo.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/urdf
+[2.829s] copying urdf/mbot_with_laser_gazebo.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/urdf
+[2.829s] copying urdf/mbot_gazebo.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/urdf
+[2.829s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/meshes
+[2.830s] copying meshes/kinect.jpg -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/meshes
+[2.830s] copying meshes/kinect.tga -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/meshes
+[2.830s] copying meshes/kinect.dae -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/meshes
+[2.831s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[2.831s] copying urdf/sensors/kinect_gazebo.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[2.831s] copying urdf/sensors/rgbd_gazebo.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[2.831s] copying urdf/sensors/lidar_gazebo.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[2.831s] copying urdf/sensors/camera_gazebo.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[2.831s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/worlds
+[2.831s] copying worlds/empty_world.model -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/worlds
+[2.831s] copying worlds/neighborhood.world -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/worlds
+[2.831s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/rviz
+[2.831s] copying rviz/urdf_gazebo_config.rviz -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/share/learning_gazebo/rviz
+[2.832s] running install_egg_info
+[2.834s] Copying ../build/learning_gazebo/learning_gazebo.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo-0.0.0-py3.10.egg-info
+[2.835s] running install_scripts
+[2.863s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo/install.log'
+[2.910s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_gazebo' returned '0': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_gazebo build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo/install.log --single-version-externally-managed install_data

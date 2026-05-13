@@ -1,0 +1,57 @@
+[0.831s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_topic': AMENT_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface LD_LIBRARY_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_topic build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/install.log --single-version-externally-managed install_data
+[0.979s] running egg_info
+[0.979s] creating ../build/learning_topic/learning_topic.egg-info
+[0.979s] writing ../build/learning_topic/learning_topic.egg-info/PKG-INFO
+[0.980s] writing dependency_links to ../build/learning_topic/learning_topic.egg-info/dependency_links.txt
+[0.980s] writing entry points to ../build/learning_topic/learning_topic.egg-info/entry_points.txt
+[0.980s] writing requirements to ../build/learning_topic/learning_topic.egg-info/requires.txt
+[0.980s] writing top-level names to ../build/learning_topic/learning_topic.egg-info/top_level.txt
+[0.980s] writing manifest file '../build/learning_topic/learning_topic.egg-info/SOURCES.txt'
+[0.982s] reading manifest file '../build/learning_topic/learning_topic.egg-info/SOURCES.txt'
+[0.982s] writing manifest file '../build/learning_topic/learning_topic.egg-info/SOURCES.txt'
+[0.982s] running build
+[0.982s] running build_py
+[0.982s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build
+[0.983s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib
+[0.983s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic
+[0.983s] copying learning_topic/topic_webcam_pub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic
+[0.983s] copying learning_topic/topic_webcam_sub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic
+[0.983s] copying learning_topic/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic
+[0.983s] copying learning_topic/topic_helloworld_sub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic
+[0.983s] copying learning_topic/topic_helloworld_pub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic
+[0.983s] copying learning_topic/interface_object_sub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic
+[0.983s] copying learning_topic/interface_object_pub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic
+[0.983s] running install
+[0.984s] running install_lib
+[0.984s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[0.984s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic/topic_webcam_pub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[0.984s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic/topic_webcam_sub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[0.984s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[0.984s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic/topic_helloworld_sub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[0.984s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic/topic_helloworld_pub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[0.984s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic/interface_object_sub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[0.984s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build/lib/learning_topic/interface_object_pub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[0.985s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_webcam_pub.py to topic_webcam_pub.cpython-310.pyc
+[0.985s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_webcam_sub.py to topic_webcam_sub.cpython-310.pyc
+[0.985s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic/__init__.py to __init__.cpython-310.pyc
+[0.985s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_helloworld_sub.py to topic_helloworld_sub.cpython-310.pyc
+[0.986s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_helloworld_pub.py to topic_helloworld_pub.cpython-310.pyc
+[0.986s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic/interface_object_sub.py to interface_object_sub.cpython-310.pyc
+[0.986s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic/interface_object_pub.py to interface_object_pub.cpython-310.pyc
+[0.986s] running install_data
+[0.987s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/share/ament_index
+[0.987s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/share/ament_index/resource_index
+[0.987s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/share/ament_index/resource_index/packages
+[0.987s] copying resource/learning_topic -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/share/ament_index/resource_index/packages
+[0.987s] copying package.xml -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/share/learning_topic
+[0.987s] running install_egg_info
+[0.989s] Copying ../build/learning_topic/learning_topic.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages/learning_topic-0.0.0-py3.10.egg-info
+[0.989s] running install_scripts
+[1.007s] Installing interface_object_pub script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/learning_topic
+[1.007s] Installing interface_object_sub script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/learning_topic
+[1.008s] Installing topic_helloworld_pub script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/learning_topic
+[1.008s] Installing topic_helloworld_sub script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/learning_topic
+[1.008s] Installing topic_webcam_pub script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/learning_topic
+[1.008s] Installing topic_webcam_sub script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/learning_topic
+[1.008s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/install.log'
+[1.029s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_topic' returned '0': AMENT_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface LD_LIBRARY_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic/lib/python3.10/site-packages:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_topic build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic/install.log --single-version-externally-managed install_data

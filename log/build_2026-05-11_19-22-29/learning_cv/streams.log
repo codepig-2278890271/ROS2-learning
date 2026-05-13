@@ -1,0 +1,37 @@
+[2.371s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_cv': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_cv build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/install.log --single-version-externally-managed install_data
+[2.629s] running egg_info
+[2.629s] creating ../build/learning_cv/learning_cv.egg-info
+[2.629s] writing ../build/learning_cv/learning_cv.egg-info/PKG-INFO
+[2.629s] writing dependency_links to ../build/learning_cv/learning_cv.egg-info/dependency_links.txt
+[2.629s] writing entry points to ../build/learning_cv/learning_cv.egg-info/entry_points.txt
+[2.630s] writing requirements to ../build/learning_cv/learning_cv.egg-info/requires.txt
+[2.630s] writing top-level names to ../build/learning_cv/learning_cv.egg-info/top_level.txt
+[2.630s] writing manifest file '../build/learning_cv/learning_cv.egg-info/SOURCES.txt'
+[2.630s] reading manifest file '../build/learning_cv/learning_cv.egg-info/SOURCES.txt'
+[2.631s] writing manifest file '../build/learning_cv/learning_cv.egg-info/SOURCES.txt'
+[2.631s] running build
+[2.631s] running build_py
+[2.631s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/build
+[2.631s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/build/lib
+[2.631s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/build/lib/learning_cv
+[2.631s] copying learning_cv/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/build/lib/learning_cv
+[2.631s] copying learning_cv/cv_bridge_test.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/build/lib/learning_cv
+[2.631s] running install
+[2.632s] running install_lib
+[2.633s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/lib/python3.10/site-packages/learning_cv
+[2.633s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/build/lib/learning_cv/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/lib/python3.10/site-packages/learning_cv
+[2.633s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/build/lib/learning_cv/cv_bridge_test.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/lib/python3.10/site-packages/learning_cv
+[2.633s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/lib/python3.10/site-packages/learning_cv/__init__.py to __init__.cpython-310.pyc
+[2.633s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/lib/python3.10/site-packages/learning_cv/cv_bridge_test.py to cv_bridge_test.cpython-310.pyc
+[2.634s] running install_data
+[2.634s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/share/ament_index
+[2.634s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/share/ament_index/resource_index
+[2.634s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/share/ament_index/resource_index/packages
+[2.634s] copying resource/learning_cv -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/share/ament_index/resource_index/packages
+[2.634s] copying package.xml -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/share/learning_cv
+[2.634s] running install_egg_info
+[2.636s] Copying ../build/learning_cv/learning_cv.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/lib/python3.10/site-packages/learning_cv-0.0.0-py3.10.egg-info
+[2.636s] running install_scripts
+[2.660s] Installing cv_bridge_test script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/lib/learning_cv
+[2.660s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/install.log'
+[2.697s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_cv' returned '0': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_cv build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_cv/install.log --single-version-externally-managed install_data

@@ -1,0 +1,20 @@
+[2.522s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_urdf': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_urdf build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/install.log --single-version-externally-managed install_data
+[2.848s] running egg_info
+[2.848s] writing ../build/learning_urdf/learning_urdf.egg-info/PKG-INFO
+[2.848s] writing dependency_links to ../build/learning_urdf/learning_urdf.egg-info/dependency_links.txt
+[2.848s] writing entry points to ../build/learning_urdf/learning_urdf.egg-info/entry_points.txt
+[2.848s] writing requirements to ../build/learning_urdf/learning_urdf.egg-info/requires.txt
+[2.848s] writing top-level names to ../build/learning_urdf/learning_urdf.egg-info/top_level.txt
+[2.848s] reading manifest file '../build/learning_urdf/learning_urdf.egg-info/SOURCES.txt'
+[2.849s] writing manifest file '../build/learning_urdf/learning_urdf.egg-info/SOURCES.txt'
+[2.849s] running build
+[2.849s] running build_py
+[2.849s] running install
+[2.850s] running install_lib
+[2.855s] running install_data
+[2.856s] running install_egg_info
+[2.856s] removing '/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/lib/python3.10/site-packages/learning_urdf-0.0.0-py3.10.egg-info' (and everything under it)
+[2.856s] Copying ../build/learning_urdf/learning_urdf.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/lib/python3.10/site-packages/learning_urdf-0.0.0-py3.10.egg-info
+[2.857s] running install_scripts
+[2.886s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/install.log'
+[2.927s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_urdf' returned '0': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_urdf build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/install.log --single-version-externally-managed install_data

@@ -1,0 +1,75 @@
+[0.239s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action_cpp': AMENT_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:/opt/ros/humble LD_LIBRARY_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/zhuzeyu/guyueju/ros2_21_tutorials/learning_action_cpp -DCMAKE_INSTALL_PREFIX=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp
+[0.417s] -- The C compiler identification is GNU 11.4.0
+[0.417s] -- The CXX compiler identification is GNU 11.4.0
+[0.417s] -- Detecting C compiler ABI info
+[0.442s] -- Detecting C compiler ABI info - done
+[0.454s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.454s] -- Detecting C compile features
+[0.455s] -- Detecting C compile features - done
+[0.460s] -- Detecting CXX compiler ABI info
+[0.544s] -- Detecting CXX compiler ABI info - done
+[0.552s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.552s] -- Detecting CXX compile features
+[0.553s] -- Detecting CXX compile features - done
+[0.554s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.703s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.761s] -- Found rclcpp: 16.0.18 (/opt/ros/humble/share/rclcpp/cmake)
+[0.786s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.789s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.794s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.806s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.819s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.847s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.848s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.921s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.941s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.967s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.972s] -- Looking for pthread.h
+[1.042s] -- Looking for pthread.h - found
+[1.042s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.105s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.106s] -- Found Threads: TRUE  
+[1.139s] -- Found rclcpp_action: 16.0.18 (/opt/ros/humble/share/rclcpp_action/cmake)
+[1.162s] -- Found learning_interface: 0.0.0 (/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/share/learning_interface/cmake)
+[1.172s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.234s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.234s] -- Configured cppcheck include dirs: 
+[1.234s] -- Configured cppcheck exclude dirs and/or files: 
+[1.235s] -- Added test 'lint_cmake' to check CMake code style
+[1.236s] -- Added test 'uncrustify' to check C / C++ code style
+[1.236s] -- Configured uncrustify additional arguments: 
+[1.236s] -- Added test 'xmllint' to check XML markup files
+[1.238s] -- Configuring done
+[1.253s] -- Generating done
+[1.260s] -- Build files have been written to: /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action_cpp
+[1.272s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action_cpp' returned '0': AMENT_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:/opt/ros/humble LD_LIBRARY_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/zhuzeyu/guyueju/ros2_21_tutorials/learning_action_cpp -DCMAKE_INSTALL_PREFIX=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp
+[1.273s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action_cpp': AMENT_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:/opt/ros/humble LD_LIBRARY_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action_cpp -- -j16 -l16
+[1.323s] [ 25%] [32mBuilding CXX object CMakeFiles/action_move_client.dir/src/action_move_client.cpp.o[0m
+[1.330s] [ 50%] [32mBuilding CXX object CMakeFiles/action_move_server.dir/src/action_move_server.cpp.o[0m
+[4.082s] [ 75%] [32m[1mLinking CXX executable action_move_server[0m
+[4.201s] [ 75%] Built target action_move_server
+[5.466s] [100%] [32m[1mLinking CXX executable action_move_client[0m
+[5.580s] [100%] Built target action_move_client
+[5.593s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action_cpp' returned '0': AMENT_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:/opt/ros/humble LD_LIBRARY_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action_cpp -- -j16 -l16
+[5.595s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action_cpp': AMENT_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:/opt/ros/humble LD_LIBRARY_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action_cpp
+[5.603s] -- Install configuration: ""
+[5.603s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/lib/learning_action_cpp/action_move_server
+[5.604s] -- Set runtime path of "/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/lib/learning_action_cpp/action_move_server" to ""
+[5.604s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/lib/learning_action_cpp/action_move_client
+[5.605s] -- Set runtime path of "/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/lib/learning_action_cpp/action_move_client" to ""
+[5.605s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/ament_index/resource_index/package_run_dependencies/learning_action_cpp
+[5.605s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/ament_index/resource_index/parent_prefix_path/learning_action_cpp
+[5.605s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/learning_action_cpp/environment/ament_prefix_path.sh
+[5.605s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/learning_action_cpp/environment/ament_prefix_path.dsv
+[5.606s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/learning_action_cpp/environment/path.sh
+[5.606s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/learning_action_cpp/environment/path.dsv
+[5.606s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/learning_action_cpp/local_setup.bash
+[5.606s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/learning_action_cpp/local_setup.sh
+[5.606s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/learning_action_cpp/local_setup.zsh
+[5.606s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/learning_action_cpp/local_setup.dsv
+[5.606s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/learning_action_cpp/package.dsv
+[5.606s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/ament_index/resource_index/packages/learning_action_cpp
+[5.606s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/learning_action_cpp/cmake/learning_action_cppConfig.cmake
+[5.606s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/learning_action_cpp/cmake/learning_action_cppConfig-version.cmake
+[5.606s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp/share/learning_action_cpp/package.xml
+[5.608s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action_cpp' returned '0': AMENT_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:/opt/ros/humble LD_LIBRARY_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action_cpp

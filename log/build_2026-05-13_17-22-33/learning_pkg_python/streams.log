@@ -1,0 +1,20 @@
+[2.809s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_pkg_python': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_pkg_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_pkg_python build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_pkg_python/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_pkg_python/install.log --single-version-externally-managed install_data
+[2.991s] running egg_info
+[2.992s] writing ../build/learning_pkg_python/learning_pkg_python.egg-info/PKG-INFO
+[2.993s] writing dependency_links to ../build/learning_pkg_python/learning_pkg_python.egg-info/dependency_links.txt
+[2.993s] writing entry points to ../build/learning_pkg_python/learning_pkg_python.egg-info/entry_points.txt
+[2.993s] writing requirements to ../build/learning_pkg_python/learning_pkg_python.egg-info/requires.txt
+[2.993s] writing top-level names to ../build/learning_pkg_python/learning_pkg_python.egg-info/top_level.txt
+[2.995s] reading manifest file '../build/learning_pkg_python/learning_pkg_python.egg-info/SOURCES.txt'
+[2.996s] writing manifest file '../build/learning_pkg_python/learning_pkg_python.egg-info/SOURCES.txt'
+[2.997s] running build
+[2.997s] running build_py
+[2.997s] running install
+[2.998s] running install_lib
+[3.000s] running install_data
+[3.000s] running install_egg_info
+[3.005s] removing '/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_python/lib/python3.10/site-packages/learning_pkg_python-0.0.0-py3.10.egg-info' (and everything under it)
+[3.005s] Copying ../build/learning_pkg_python/learning_pkg_python.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_python/lib/python3.10/site-packages/learning_pkg_python-0.0.0-py3.10.egg-info
+[3.005s] running install_scripts
+[3.025s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_pkg_python/install.log'
+[3.066s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_pkg_python' returned '0': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_pkg_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_pkg_python build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_pkg_python/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_pkg_python/install.log --single-version-externally-managed install_data

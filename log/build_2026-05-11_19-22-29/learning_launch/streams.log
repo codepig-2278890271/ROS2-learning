@@ -1,0 +1,45 @@
+[2.357s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_launch': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_launch build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/install.log --single-version-externally-managed install_data
+[2.608s] running egg_info
+[2.608s] creating ../build/learning_launch/learning_launch.egg-info
+[2.609s] writing ../build/learning_launch/learning_launch.egg-info/PKG-INFO
+[2.609s] writing dependency_links to ../build/learning_launch/learning_launch.egg-info/dependency_links.txt
+[2.610s] writing entry points to ../build/learning_launch/learning_launch.egg-info/entry_points.txt
+[2.610s] writing requirements to ../build/learning_launch/learning_launch.egg-info/requires.txt
+[2.611s] writing top-level names to ../build/learning_launch/learning_launch.egg-info/top_level.txt
+[2.611s] writing manifest file '../build/learning_launch/learning_launch.egg-info/SOURCES.txt'
+[2.613s] reading manifest file '../build/learning_launch/learning_launch.egg-info/SOURCES.txt'
+[2.615s] writing manifest file '../build/learning_launch/learning_launch.egg-info/SOURCES.txt'
+[2.616s] running build
+[2.616s] running build_py
+[2.616s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/build
+[2.616s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/build/lib
+[2.616s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/build/lib/learning_launch
+[2.616s] copying learning_launch/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/build/lib/learning_launch
+[2.618s] running install
+[2.618s] running install_lib
+[2.618s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/lib/python3.10/site-packages/learning_launch
+[2.619s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/build/lib/learning_launch/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/lib/python3.10/site-packages/learning_launch
+[2.619s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/lib/python3.10/site-packages/learning_launch/__init__.py to __init__.cpython-310.pyc
+[2.619s] running install_data
+[2.619s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/ament_index
+[2.619s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/ament_index/resource_index
+[2.619s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/ament_index/resource_index/packages
+[2.619s] copying resource/learning_launch -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/ament_index/resource_index/packages
+[2.619s] copying package.xml -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/learning_launch
+[2.619s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/learning_launch/launch
+[2.619s] copying launch/parameters_nonamespace.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/learning_launch/launch
+[2.619s] copying launch/remapping.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/learning_launch/launch
+[2.619s] copying launch/simple.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/learning_launch/launch
+[2.619s] copying launch/rviz.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/learning_launch/launch
+[2.620s] copying launch/parameters.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/learning_launch/launch
+[2.620s] copying launch/parameters_yaml.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/learning_launch/launch
+[2.620s] copying launch/namespaces.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/learning_launch/launch
+[2.620s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/learning_launch/config
+[2.620s] copying config/turtlesim.yaml -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/learning_launch/config
+[2.621s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/learning_launch/rviz
+[2.621s] copying rviz/turtle_rviz.rviz -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/share/learning_launch/rviz
+[2.621s] running install_egg_info
+[2.622s] Copying ../build/learning_launch/learning_launch.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/lib/python3.10/site-packages/learning_launch-0.0.0-py3.10.egg-info
+[2.622s] running install_scripts
+[2.644s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/install.log'
+[2.683s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_launch' returned '0': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_launch build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/install.log --single-version-externally-managed install_data

@@ -1,0 +1,22 @@
+[2.355s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_qos': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_qos build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/install.log --single-version-externally-managed install_data
+[2.673s] running egg_info
+[2.679s] writing ../build/learning_qos/learning_qos.egg-info/PKG-INFO
+[2.680s] writing dependency_links to ../build/learning_qos/learning_qos.egg-info/dependency_links.txt
+[2.685s] writing entry points to ../build/learning_qos/learning_qos.egg-info/entry_points.txt
+[2.685s] writing requirements to ../build/learning_qos/learning_qos.egg-info/requires.txt
+[2.685s] writing top-level names to ../build/learning_qos/learning_qos.egg-info/top_level.txt
+[2.685s] reading manifest file '../build/learning_qos/learning_qos.egg-info/SOURCES.txt'
+[2.685s] writing manifest file '../build/learning_qos/learning_qos.egg-info/SOURCES.txt'
+[2.685s] running build
+[2.685s] running build_py
+[2.687s] running install
+[2.687s] running install_lib
+[2.694s] running install_data
+[2.694s] running install_egg_info
+[2.694s] removing '/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages/learning_qos-0.0.0-py3.10.egg-info' (and everything under it)
+[2.694s] Copying ../build/learning_qos/learning_qos.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages/learning_qos-0.0.0-py3.10.egg-info
+[2.694s] running install_scripts
+[2.716s] Installing qos_helloworld_pub script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/learning_qos
+[2.716s] Installing qos_helloworld_sub script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/learning_qos
+[2.716s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/install.log'
+[2.763s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_qos' returned '0': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_qos build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/install.log --single-version-externally-managed install_data

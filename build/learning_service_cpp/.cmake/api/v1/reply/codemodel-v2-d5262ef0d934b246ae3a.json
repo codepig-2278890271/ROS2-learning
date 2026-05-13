@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-b80f1fa75111bc138186.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "learning_service_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_service_cpp_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_service_cpp_uninstall-081f7a9b2d942e23f456.json",
+					"name" : "learning_service_cpp_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "service_adder_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-service_adder_client-690048560c67e21f2b11.json",
+					"name" : "service_adder_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "service_adder_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-service_adder_server-00630e77e5c1d03c7f8b.json",
+					"name" : "service_adder_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-ac566e458d7cc352af2c.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service_cpp",
+		"source" : "/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_service_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

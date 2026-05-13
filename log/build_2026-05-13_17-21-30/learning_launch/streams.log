@@ -1,0 +1,20 @@
+[2.639s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_launch': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_launch build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/install.log --single-version-externally-managed install_data
+[2.956s] running egg_info
+[2.957s] writing ../build/learning_launch/learning_launch.egg-info/PKG-INFO
+[2.957s] writing dependency_links to ../build/learning_launch/learning_launch.egg-info/dependency_links.txt
+[2.958s] writing entry points to ../build/learning_launch/learning_launch.egg-info/entry_points.txt
+[2.958s] writing requirements to ../build/learning_launch/learning_launch.egg-info/requires.txt
+[2.958s] writing top-level names to ../build/learning_launch/learning_launch.egg-info/top_level.txt
+[2.960s] reading manifest file '../build/learning_launch/learning_launch.egg-info/SOURCES.txt'
+[2.960s] writing manifest file '../build/learning_launch/learning_launch.egg-info/SOURCES.txt'
+[2.960s] running build
+[2.960s] running build_py
+[2.961s] running install
+[2.961s] running install_lib
+[2.963s] running install_data
+[2.964s] running install_egg_info
+[2.967s] removing '/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/lib/python3.10/site-packages/learning_launch-0.0.0-py3.10.egg-info' (and everything under it)
+[2.967s] Copying ../build/learning_launch/learning_launch.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/lib/python3.10/site-packages/learning_launch-0.0.0-py3.10.egg-info
+[2.969s] running install_scripts
+[3.001s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/install.log'
+[3.067s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_launch' returned '0': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_launch build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_launch/install.log --single-version-externally-managed install_data

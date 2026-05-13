@@ -1,0 +1,27 @@
+[2.706s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_node': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_node build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_node/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_node/install.log --single-version-externally-managed install_data
+[2.936s] running egg_info
+[2.938s] writing ../build/learning_node/learning_node.egg-info/PKG-INFO
+[2.938s] writing dependency_links to ../build/learning_node/learning_node.egg-info/dependency_links.txt
+[2.939s] writing entry points to ../build/learning_node/learning_node.egg-info/entry_points.txt
+[2.939s] writing requirements to ../build/learning_node/learning_node.egg-info/requires.txt
+[2.939s] writing top-level names to ../build/learning_node/learning_node.egg-info/top_level.txt
+[2.940s] reading manifest file '../build/learning_node/learning_node.egg-info/SOURCES.txt'
+[2.941s] writing manifest file '../build/learning_node/learning_node.egg-info/SOURCES.txt'
+[2.943s] running build
+[2.943s] running build_py
+[2.943s] copying learning_node/node_object.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_node/build/lib/learning_node
+[2.943s] running install
+[2.943s] running install_lib
+[2.946s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_node/build/lib/learning_node/node_object.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node/lib/python3.10/site-packages/learning_node
+[2.946s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node/lib/python3.10/site-packages/learning_node/node_object.py to node_object.cpython-310.pyc
+[2.946s] running install_data
+[2.947s] running install_egg_info
+[2.948s] removing '/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node/lib/python3.10/site-packages/learning_node-0.0.0-py3.10.egg-info' (and everything under it)
+[2.951s] Copying ../build/learning_node/learning_node.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node/lib/python3.10/site-packages/learning_node-0.0.0-py3.10.egg-info
+[2.951s] running install_scripts
+[2.982s] Installing node_helloworld script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node/lib/learning_node
+[2.982s] Installing node_helloworld_class script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node/lib/learning_node
+[2.982s] Installing node_object script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node/lib/learning_node
+[2.983s] Installing node_object_webcam script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node/lib/learning_node
+[2.983s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_node/install.log'
+[3.027s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_node' returned '0': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_node build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_node/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_node/install.log --single-version-externally-managed install_data

@@ -1,0 +1,22 @@
+[0.971s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_action': CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service_cpp:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_parameter_cpp:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node_cpp:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_action build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/install.log --single-version-externally-managed install_data
+[1.139s] running egg_info
+[1.140s] writing ../build/learning_action/learning_action.egg-info/PKG-INFO
+[1.140s] writing dependency_links to ../build/learning_action/learning_action.egg-info/dependency_links.txt
+[1.140s] writing entry points to ../build/learning_action/learning_action.egg-info/entry_points.txt
+[1.140s] writing requirements to ../build/learning_action/learning_action.egg-info/requires.txt
+[1.140s] writing top-level names to ../build/learning_action/learning_action.egg-info/top_level.txt
+[1.141s] reading manifest file '../build/learning_action/learning_action.egg-info/SOURCES.txt'
+[1.142s] writing manifest file '../build/learning_action/learning_action.egg-info/SOURCES.txt'
+[1.142s] running build
+[1.142s] running build_py
+[1.142s] running install
+[1.142s] running install_lib
+[1.143s] running install_data
+[1.143s] running install_egg_info
+[1.144s] removing '/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action/lib/python3.10/site-packages/learning_action-0.0.0-py3.10.egg-info' (and everything under it)
+[1.145s] Copying ../build/learning_action/learning_action.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action/lib/python3.10/site-packages/learning_action-0.0.0-py3.10.egg-info
+[1.145s] running install_scripts
+[1.160s] Installing action_move_client script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action/lib/learning_action
+[1.160s] Installing action_move_server script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action/lib/learning_action
+[1.161s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/install.log'
+[1.177s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_action' returned '0': CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service_cpp:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_parameter_cpp:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node_cpp:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action_cpp PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_action build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/install.log --single-version-externally-managed install_data

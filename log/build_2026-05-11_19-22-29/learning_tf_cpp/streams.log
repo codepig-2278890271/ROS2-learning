@@ -1,0 +1,91 @@
+[1.750s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zhuzeyu/guyueju/ros2_21_tutorials/learning_tf_cpp -DCMAKE_INSTALL_PREFIX=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp
+[1.909s] -- The C compiler identification is GNU 11.4.0
+[1.909s] -- The CXX compiler identification is GNU 11.4.0
+[1.909s] -- Detecting C compiler ABI info
+[1.924s] -- Detecting C compiler ABI info - done
+[1.935s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.935s] -- Detecting C compile features
+[1.936s] -- Detecting C compile features - done
+[1.940s] -- Detecting CXX compiler ABI info
+[2.096s] -- Detecting CXX compiler ABI info - done
+[2.114s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.114s] -- Detecting CXX compile features
+[2.115s] -- Detecting CXX compile features - done
+[2.120s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.291s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.410s] -- Found geometry_msgs: 4.9.1 (/opt/ros/humble/share/geometry_msgs/cmake)
+[2.465s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.470s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.479s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.493s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.514s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.576s] -- Found rclcpp: 16.0.18 (/opt/ros/humble/share/rclcpp/cmake)
+[2.621s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.623s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.706s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.725s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.755s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.760s] -- Looking for pthread.h
+[2.809s] -- Looking for pthread.h - found
+[2.809s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.863s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.865s] -- Found Threads: TRUE  
+[2.919s] -- Found tf2: 0.25.19 (/opt/ros/humble/share/tf2/cmake)
+[2.946s] -- Found tf2_ros: 0.25.19 (/opt/ros/humble/share/tf2_ros/cmake)
+[3.077s] -- Found turtlesim: 1.4.3 (/opt/ros/humble/share/turtlesim/cmake)
+[3.100s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.192s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.193s] -- Configured cppcheck include dirs: 
+[3.193s] -- Configured cppcheck exclude dirs and/or files: 
+[3.193s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.195s] -- Added test 'lint_cmake' to check CMake code style
+[3.195s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[3.195s] -- Added test 'uncrustify' to check C / C++ code style
+[3.195s] -- Configured uncrustify additional arguments: 
+[3.196s] -- Added test 'xmllint' to check XML markup files
+[3.197s] -- Configuring done
+[3.224s] -- Generating done
+[3.235s] -- Build files have been written to: /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp
+[3.247s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zhuzeyu/guyueju/ros2_21_tutorials/learning_tf_cpp -DCMAKE_INSTALL_PREFIX=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp
+[3.249s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp -- -j16 -l16
+[3.298s] [ 12%] [32mBuilding CXX object CMakeFiles/static_tf_broadcaster.dir/src/static_tf_broadcaster.cpp.o[0m
+[3.300s] [ 25%] [32mBuilding CXX object CMakeFiles/turtle_tf_broadcaster.dir/src/turtle_tf_broadcaster.cpp.o[0m
+[3.300s] [ 37%] [32mBuilding CXX object CMakeFiles/turtle_following.dir/src/turtle_following.cpp.o[0m
+[3.301s] [ 50%] [32mBuilding CXX object CMakeFiles/tf_listener.dir/src/tf_listener.cpp.o[0m
+[6.838s] [ 62%] [32m[1mLinking CXX executable tf_listener[0m
+[6.954s] [ 75%] [32m[1mLinking CXX executable static_tf_broadcaster[0m
+[7.079s] [ 75%] Built target tf_listener
+[7.159s] [ 75%] Built target static_tf_broadcaster
+[9.134s] [ 87%] [32m[1mLinking CXX executable turtle_following[0m
+[9.399s] [ 87%] Built target turtle_following
+[11.763s] [100%] [32m[1mLinking CXX executable turtle_tf_broadcaster[0m
+[12.048s] [100%] Built target turtle_tf_broadcaster
+[12.060s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp -- -j16 -l16
+[12.061s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp
+[12.066s] -- Install configuration: ""
+[12.066s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/lib/learning_tf_cpp/static_tf_broadcaster
+[12.067s] -- Set runtime path of "/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/lib/learning_tf_cpp/static_tf_broadcaster" to ""
+[12.067s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/lib/learning_tf_cpp/turtle_tf_broadcaster
+[12.068s] -- Set runtime path of "/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/lib/learning_tf_cpp/turtle_tf_broadcaster" to ""
+[12.068s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/lib/learning_tf_cpp/tf_listener
+[12.069s] -- Set runtime path of "/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/lib/learning_tf_cpp/tf_listener" to ""
+[12.069s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/lib/learning_tf_cpp/turtle_following
+[12.069s] -- Set runtime path of "/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/lib/learning_tf_cpp/turtle_following" to ""
+[12.069s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp//launch
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp//launch/turtle_following_demo.launch.py
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/ament_index/resource_index/package_run_dependencies/learning_tf_cpp
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/ament_index/resource_index/parent_prefix_path/learning_tf_cpp
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/environment/ament_prefix_path.sh
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/environment/ament_prefix_path.dsv
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/environment/path.sh
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/environment/path.dsv
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.bash
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.sh
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.zsh
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.dsv
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/package.dsv
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/ament_index/resource_index/packages/learning_tf_cpp
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/cmake/learning_tf_cppConfig.cmake
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/cmake/learning_tf_cppConfig-version.cmake
+[12.070s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/package.xml
+[12.072s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp

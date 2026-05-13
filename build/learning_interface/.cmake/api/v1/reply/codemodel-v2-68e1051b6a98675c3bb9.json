@@ -1,0 +1,258 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-6782ee6f851f0cfcd6b2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "learning_interface__py",
+					"jsonFile" : "directory-learning_interface__py-52cb93ff7b060c9010e0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_interface/learning_interface__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "learning_interface__rs",
+					"jsonFile" : "directory-learning_interface__rs-d0c4c0d0380091c24f04.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_interface/learning_interface__rs",
+					"targetIndexes" : 
+					[
+						16
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "learning_interface",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_learning_interface_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_learning_interface_egg-713f5df78ccc35e28e3e.json",
+					"name" : "ament_cmake_python_build_learning_interface_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_learning_interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_learning_interface-889ca042863a04335f8b.json",
+					"name" : "ament_cmake_python_copy_learning_interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface-84f5dfa97958a60137f8.json",
+					"name" : "learning_interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface__cpp-0edd300ec3459d2e03ca.json",
+					"name" : "learning_interface__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "learning_interface__py::@4b92b54f09b619e1d948",
+					"jsonFile" : "target-learning_interface__py-822ed9eac44adce6e758.json",
+					"name" : "learning_interface__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface__rosidl_generator_c-f57710cd587394a9486b.json",
+					"name" : "learning_interface__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface__rosidl_generator_py-5f07101de44634260a98.json",
+					"name" : "learning_interface__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface__rosidl_typesupport_c-923775ba20a57b76342f.json",
+					"name" : "learning_interface__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface__rosidl_typesupport_c__pyext-e0f4a453dc6322663fc8.json",
+					"name" : "learning_interface__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface__rosidl_typesupport_cpp-ccf7b0bd55219fcdbf18.json",
+					"name" : "learning_interface__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface__rosidl_typesupport_fastrtps_c-ebc39e8b5026b9f4c798.json",
+					"name" : "learning_interface__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface__rosidl_typesupport_fastrtps_c__pyext-dca7e2dfbe170eab5147.json",
+					"name" : "learning_interface__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface__rosidl_typesupport_fastrtps_cpp-9c1a904d5d72b24edd7b.json",
+					"name" : "learning_interface__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface__rosidl_typesupport_introspection_c-6e44eae9138453cfc3bb.json",
+					"name" : "learning_interface__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface__rosidl_typesupport_introspection_c__pyext-ff344705877482b60d7c.json",
+					"name" : "learning_interface__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface__rosidl_typesupport_introspection_cpp-1465a3d239975557dda3.json",
+					"name" : "learning_interface__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "learning_interface__rs::@9cbfbb2ddeb1655c907a",
+					"jsonFile" : "target-learning_interface__rs-f00412547a7b1d8e41ab.json",
+					"name" : "learning_interface__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_interface_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_interface_uninstall-5f149181a94e16b7d57c.json",
+					"name" : "learning_interface_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-f72d0d02b6a940cf7eb4.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_interface",
+		"source" : "/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_interface"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

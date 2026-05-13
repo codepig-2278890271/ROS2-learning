@@ -1,0 +1,52 @@
+[2.319s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_urdf': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_urdf build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/install.log --single-version-externally-managed install_data
+[2.596s] running egg_info
+[2.597s] creating ../build/learning_urdf/learning_urdf.egg-info
+[2.597s] writing ../build/learning_urdf/learning_urdf.egg-info/PKG-INFO
+[2.598s] writing dependency_links to ../build/learning_urdf/learning_urdf.egg-info/dependency_links.txt
+[2.599s] writing entry points to ../build/learning_urdf/learning_urdf.egg-info/entry_points.txt
+[2.599s] writing requirements to ../build/learning_urdf/learning_urdf.egg-info/requires.txt
+[2.599s] writing top-level names to ../build/learning_urdf/learning_urdf.egg-info/top_level.txt
+[2.599s] writing manifest file '../build/learning_urdf/learning_urdf.egg-info/SOURCES.txt'
+[2.601s] reading manifest file '../build/learning_urdf/learning_urdf.egg-info/SOURCES.txt'
+[2.602s] writing manifest file '../build/learning_urdf/learning_urdf.egg-info/SOURCES.txt'
+[2.603s] running build
+[2.603s] running build_py
+[2.603s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/build
+[2.603s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/build/lib
+[2.603s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/build/lib/learning_urdf
+[2.603s] copying learning_urdf/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/build/lib/learning_urdf
+[2.604s] running install
+[2.604s] running install_lib
+[2.605s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/lib/python3.10/site-packages/learning_urdf
+[2.605s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/build/lib/learning_urdf/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/lib/python3.10/site-packages/learning_urdf
+[2.607s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/lib/python3.10/site-packages/learning_urdf/__init__.py to __init__.cpython-310.pyc
+[2.607s] running install_data
+[2.607s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/ament_index
+[2.607s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/ament_index/resource_index
+[2.607s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/ament_index/resource_index/packages
+[2.607s] copying resource/learning_urdf -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/ament_index/resource_index/packages
+[2.607s] copying package.xml -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf
+[2.608s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/launch
+[2.608s] copying launch/display_xacro.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/launch
+[2.608s] copying launch/display.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/launch
+[2.608s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/urdf
+[2.608s] copying urdf/mbot_base.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/urdf
+[2.608s] copying urdf/mbot_base.urdf -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/urdf
+[2.608s] copying urdf/mbot_with_camera.urdf -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/urdf
+[2.608s] copying urdf/mbot_with_laser.urdf -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/urdf
+[2.608s] copying urdf/mbot_with_kinect.urdf -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/urdf
+[2.608s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/urdf/sensors
+[2.608s] copying urdf/sensors/kinect_gazebo.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/urdf/sensors
+[2.608s] copying urdf/sensors/lidar_gazebo.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/urdf/sensors
+[2.608s] copying urdf/sensors/camera_gazebo.xacro -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/urdf/sensors
+[2.608s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/meshes
+[2.608s] copying meshes/kinect.jpg -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/meshes
+[2.609s] copying meshes/kinect.tga -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/meshes
+[2.609s] copying meshes/kinect.dae -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/meshes
+[2.609s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/rviz
+[2.609s] copying rviz/urdf.rviz -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/share/learning_urdf/rviz
+[2.609s] running install_egg_info
+[2.611s] Copying ../build/learning_urdf/learning_urdf.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/lib/python3.10/site-packages/learning_urdf-0.0.0-py3.10.egg-info
+[2.612s] running install_scripts
+[2.638s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/install.log'
+[2.682s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_urdf' returned '0': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_urdf build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_urdf/install.log --single-version-externally-managed install_data

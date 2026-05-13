@@ -1,0 +1,51 @@
+[2.360s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_tf': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_tf build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/install.log --single-version-externally-managed install_data
+[2.593s] running egg_info
+[2.594s] creating ../build/learning_tf/learning_tf.egg-info
+[2.594s] writing ../build/learning_tf/learning_tf.egg-info/PKG-INFO
+[2.596s] writing dependency_links to ../build/learning_tf/learning_tf.egg-info/dependency_links.txt
+[2.597s] writing entry points to ../build/learning_tf/learning_tf.egg-info/entry_points.txt
+[2.597s] writing requirements to ../build/learning_tf/learning_tf.egg-info/requires.txt
+[2.597s] writing top-level names to ../build/learning_tf/learning_tf.egg-info/top_level.txt
+[2.597s] writing manifest file '../build/learning_tf/learning_tf.egg-info/SOURCES.txt'
+[2.599s] reading manifest file '../build/learning_tf/learning_tf.egg-info/SOURCES.txt'
+[2.602s] writing manifest file '../build/learning_tf/learning_tf.egg-info/SOURCES.txt'
+[2.602s] running build
+[2.602s] running build_py
+[2.602s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build
+[2.602s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build/lib
+[2.602s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build/lib/learning_tf
+[2.603s] copying learning_tf/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build/lib/learning_tf
+[2.603s] copying learning_tf/static_tf_broadcaster.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build/lib/learning_tf
+[2.603s] copying learning_tf/tf_listener.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build/lib/learning_tf
+[2.603s] copying learning_tf/turtle_tf_broadcaster.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build/lib/learning_tf
+[2.603s] copying learning_tf/turtle_following.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build/lib/learning_tf
+[2.603s] running install
+[2.603s] running install_lib
+[2.604s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages/learning_tf
+[2.604s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build/lib/learning_tf/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages/learning_tf
+[2.604s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build/lib/learning_tf/static_tf_broadcaster.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages/learning_tf
+[2.604s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build/lib/learning_tf/tf_listener.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages/learning_tf
+[2.605s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build/lib/learning_tf/turtle_tf_broadcaster.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages/learning_tf
+[2.605s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build/lib/learning_tf/turtle_following.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages/learning_tf
+[2.605s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages/learning_tf/__init__.py to __init__.cpython-310.pyc
+[2.605s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages/learning_tf/static_tf_broadcaster.py to static_tf_broadcaster.cpython-310.pyc
+[2.606s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages/learning_tf/tf_listener.py to tf_listener.cpython-310.pyc
+[2.606s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages/learning_tf/turtle_tf_broadcaster.py to turtle_tf_broadcaster.cpython-310.pyc
+[2.607s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages/learning_tf/turtle_following.py to turtle_following.cpython-310.pyc
+[2.607s] running install_data
+[2.608s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/share/ament_index
+[2.608s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/share/ament_index/resource_index
+[2.608s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/share/ament_index/resource_index/packages
+[2.608s] copying resource/learning_tf -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/share/ament_index/resource_index/packages
+[2.608s] copying package.xml -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/share/learning_tf
+[2.608s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/share/learning_tf/launch
+[2.608s] copying launch/turtle_following_demo.launch.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/share/learning_tf/launch
+[2.608s] running install_egg_info
+[2.610s] Copying ../build/learning_tf/learning_tf.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages/learning_tf-0.0.0-py3.10.egg-info
+[2.611s] running install_scripts
+[2.635s] Installing static_tf_broadcaster script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/learning_tf
+[2.635s] Installing tf_listener script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/learning_tf
+[2.635s] Installing turtle_following script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/learning_tf
+[2.635s] Installing turtle_tf_broadcaster script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/learning_tf
+[2.635s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/install.log'
+[2.682s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_tf' returned '0': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_tf build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf/install.log --single-version-externally-managed install_data

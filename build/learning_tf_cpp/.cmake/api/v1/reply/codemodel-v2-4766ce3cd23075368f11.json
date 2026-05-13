@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-4c73a786322215b193a8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "learning_tf_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "learning_tf_cpp_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learning_tf_cpp_uninstall-0c822856a16c05e5e980.json",
+					"name" : "learning_tf_cpp_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "static_tf_broadcaster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-static_tf_broadcaster-687ee6603bb5370f8327.json",
+					"name" : "static_tf_broadcaster",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tf_listener::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tf_listener-1b83b6e97a1ff24e5bf3.json",
+					"name" : "tf_listener",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_following::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_following-32ad3c63a6e5188d10f4.json",
+					"name" : "turtle_following",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtle_tf_broadcaster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtle_tf_broadcaster-9119462a0ee2a662b7dc.json",
+					"name" : "turtle_tf_broadcaster",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-2c505d4605f767c5f46d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp",
+		"source" : "/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_tf_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

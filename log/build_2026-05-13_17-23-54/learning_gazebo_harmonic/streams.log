@@ -1,0 +1,20 @@
+[2.707s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_gazebo_harmonic': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo_harmonic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo_harmonic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_gazebo_harmonic build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo_harmonic/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo_harmonic/install.log --single-version-externally-managed install_data
+[3.077s] running egg_info
+[3.079s] writing ../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/PKG-INFO
+[3.079s] writing dependency_links to ../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/dependency_links.txt
+[3.080s] writing entry points to ../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/entry_points.txt
+[3.080s] writing requirements to ../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/requires.txt
+[3.081s] writing top-level names to ../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/top_level.txt
+[3.084s] reading manifest file '../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/SOURCES.txt'
+[3.084s] writing manifest file '../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/SOURCES.txt'
+[3.084s] running build
+[3.085s] running build_py
+[3.085s] running install
+[3.085s] running install_lib
+[3.087s] running install_data
+[3.087s] running install_egg_info
+[3.090s] removing '/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo_harmonic/lib/python3.10/site-packages/learning_gazebo_harmonic-0.0.0-py3.10.egg-info' (and everything under it)
+[3.092s] Copying ../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo_harmonic/lib/python3.10/site-packages/learning_gazebo_harmonic-0.0.0-py3.10.egg-info
+[3.093s] running install_scripts
+[3.128s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo_harmonic/install.log'
+[3.170s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_gazebo_harmonic' returned '0': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo_harmonic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo_harmonic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_gazebo_harmonic build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo_harmonic/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_gazebo_harmonic/install.log --single-version-externally-managed install_data

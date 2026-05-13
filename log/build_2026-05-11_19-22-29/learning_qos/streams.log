@@ -1,0 +1,41 @@
+[2.491s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_qos': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_qos build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/install.log --single-version-externally-managed install_data
+[2.836s] running egg_info
+[2.837s] creating ../build/learning_qos/learning_qos.egg-info
+[2.837s] writing ../build/learning_qos/learning_qos.egg-info/PKG-INFO
+[2.838s] writing dependency_links to ../build/learning_qos/learning_qos.egg-info/dependency_links.txt
+[2.838s] writing entry points to ../build/learning_qos/learning_qos.egg-info/entry_points.txt
+[2.838s] writing requirements to ../build/learning_qos/learning_qos.egg-info/requires.txt
+[2.838s] writing top-level names to ../build/learning_qos/learning_qos.egg-info/top_level.txt
+[2.838s] writing manifest file '../build/learning_qos/learning_qos.egg-info/SOURCES.txt'
+[2.841s] reading manifest file '../build/learning_qos/learning_qos.egg-info/SOURCES.txt'
+[2.842s] writing manifest file '../build/learning_qos/learning_qos.egg-info/SOURCES.txt'
+[2.842s] running build
+[2.842s] running build_py
+[2.842s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/build
+[2.842s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/build/lib
+[2.842s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/build/lib/learning_qos
+[2.842s] copying learning_qos/qos_helloworld_sub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/build/lib/learning_qos
+[2.842s] copying learning_qos/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/build/lib/learning_qos
+[2.843s] copying learning_qos/qos_helloworld_pub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/build/lib/learning_qos
+[2.843s] running install
+[2.843s] running install_lib
+[2.845s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages/learning_qos
+[2.845s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/build/lib/learning_qos/qos_helloworld_sub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages/learning_qos
+[2.845s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/build/lib/learning_qos/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages/learning_qos
+[2.845s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/build/lib/learning_qos/qos_helloworld_pub.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages/learning_qos
+[2.846s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages/learning_qos/qos_helloworld_sub.py to qos_helloworld_sub.cpython-310.pyc
+[2.846s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages/learning_qos/__init__.py to __init__.cpython-310.pyc
+[2.846s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages/learning_qos/qos_helloworld_pub.py to qos_helloworld_pub.cpython-310.pyc
+[2.847s] running install_data
+[2.847s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/share/ament_index
+[2.847s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/share/ament_index/resource_index
+[2.847s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/share/ament_index/resource_index/packages
+[2.847s] copying resource/learning_qos -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/share/ament_index/resource_index/packages
+[2.848s] copying package.xml -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/share/learning_qos
+[2.848s] running install_egg_info
+[2.850s] Copying ../build/learning_qos/learning_qos.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages/learning_qos-0.0.0-py3.10.egg-info
+[2.852s] running install_scripts
+[2.881s] Installing qos_helloworld_pub script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/learning_qos
+[2.881s] Installing qos_helloworld_sub script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/learning_qos
+[2.881s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/install.log'
+[2.915s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_qos' returned '0': PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_qos build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_qos/install.log --single-version-externally-managed install_data

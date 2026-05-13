@@ -1,0 +1,49 @@
+[0.818s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_service': AMENT_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface LD_LIBRARY_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_service build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/install.log --single-version-externally-managed install_data
+[0.965s] running egg_info
+[0.965s] creating ../build/learning_service/learning_service.egg-info
+[0.965s] writing ../build/learning_service/learning_service.egg-info/PKG-INFO
+[0.966s] writing dependency_links to ../build/learning_service/learning_service.egg-info/dependency_links.txt
+[0.966s] writing entry points to ../build/learning_service/learning_service.egg-info/entry_points.txt
+[0.966s] writing requirements to ../build/learning_service/learning_service.egg-info/requires.txt
+[0.966s] writing top-level names to ../build/learning_service/learning_service.egg-info/top_level.txt
+[0.966s] writing manifest file '../build/learning_service/learning_service.egg-info/SOURCES.txt'
+[0.967s] reading manifest file '../build/learning_service/learning_service.egg-info/SOURCES.txt'
+[0.967s] writing manifest file '../build/learning_service/learning_service.egg-info/SOURCES.txt'
+[0.967s] running build
+[0.967s] running build_py
+[0.968s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build
+[0.968s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build/lib
+[0.968s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build/lib/learning_service
+[0.968s] copying learning_service/service_object_client.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build/lib/learning_service
+[0.968s] copying learning_service/service_object_server.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build/lib/learning_service
+[0.968s] copying learning_service/service_adder_server.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build/lib/learning_service
+[0.968s] copying learning_service/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build/lib/learning_service
+[0.968s] copying learning_service/service_adder_client.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build/lib/learning_service
+[0.968s] running install
+[0.968s] running install_lib
+[0.969s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages/learning_service
+[0.969s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build/lib/learning_service/service_object_client.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages/learning_service
+[0.969s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build/lib/learning_service/service_object_server.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages/learning_service
+[0.969s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build/lib/learning_service/service_adder_server.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages/learning_service
+[0.969s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build/lib/learning_service/__init__.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages/learning_service
+[0.969s] copying /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build/lib/learning_service/service_adder_client.py -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages/learning_service
+[0.969s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages/learning_service/service_object_client.py to service_object_client.cpython-310.pyc
+[0.970s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages/learning_service/service_object_server.py to service_object_server.cpython-310.pyc
+[0.970s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages/learning_service/service_adder_server.py to service_adder_server.cpython-310.pyc
+[0.970s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages/learning_service/__init__.py to __init__.cpython-310.pyc
+[0.970s] byte-compiling /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages/learning_service/service_adder_client.py to service_adder_client.cpython-310.pyc
+[0.971s] running install_data
+[0.971s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/share/ament_index
+[0.971s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/share/ament_index/resource_index
+[0.971s] creating /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/share/ament_index/resource_index/packages
+[0.971s] copying resource/learning_service -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/share/ament_index/resource_index/packages
+[0.971s] copying package.xml -> /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/share/learning_service
+[0.971s] running install_egg_info
+[0.972s] Copying ../build/learning_service/learning_service.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages/learning_service-0.0.0-py3.10.egg-info
+[0.973s] running install_scripts
+[0.988s] Installing service_adder_client script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/learning_service
+[0.988s] Installing service_adder_server script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/learning_service
+[0.988s] Installing service_object_client script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/learning_service
+[0.988s] Installing service_object_server script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/learning_service
+[0.989s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/install.log'
+[1.013s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_service' returned '0': AMENT_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface LD_LIBRARY_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service/lib/python3.10/site-packages:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_service build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_service/install.log --single-version-externally-managed install_data
