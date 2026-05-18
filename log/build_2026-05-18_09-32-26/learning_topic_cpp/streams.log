@@ -1,0 +1,24 @@
+[1.474s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp -- -j16 -l16
+[1.662s] [ 50%] Built target topic_helloworld_sub
+[1.662s] [100%] Built target topic_helloworld_pub
+[1.726s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp -- -j16 -l16
+[1.729s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp
+[1.741s] -- Install configuration: ""
+[1.742s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_pub
+[1.742s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_sub
+[1.742s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/ament_index/resource_index/package_run_dependencies/learning_topic_cpp
+[1.743s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/ament_index/resource_index/parent_prefix_path/learning_topic_cpp
+[1.743s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/learning_topic_cpp/environment/ament_prefix_path.sh
+[1.744s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/learning_topic_cpp/environment/ament_prefix_path.dsv
+[1.744s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/learning_topic_cpp/environment/path.sh
+[1.744s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/learning_topic_cpp/environment/path.dsv
+[1.744s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.bash
+[1.744s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.sh
+[1.745s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.zsh
+[1.745s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.dsv
+[1.745s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/learning_topic_cpp/package.dsv
+[1.745s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/ament_index/resource_index/packages/learning_topic_cpp
+[1.745s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/learning_topic_cpp/cmake/learning_topic_cppConfig.cmake
+[1.745s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/learning_topic_cpp/cmake/learning_topic_cppConfig-version.cmake
+[1.745s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic_cpp/share/learning_topic_cpp/package.xml
+[1.857s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp

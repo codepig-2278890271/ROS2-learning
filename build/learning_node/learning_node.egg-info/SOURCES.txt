@@ -12,6 +12,7 @@ learning_node/__init__.py
 learning_node/node_helloworld.py
 learning_node/node_helloworld_class.py
 learning_node/node_object.py
+learning_node/node_object_face.py
 learning_node/node_object_webcam.py
 resource/learning_node
 test/test_copyright.py

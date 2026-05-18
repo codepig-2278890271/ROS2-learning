@@ -1,0 +1,22 @@
+[0.819s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_action': AMENT_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface LD_LIBRARY_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action/lib/python3.10/site-packages:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_action build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/install.log --single-version-externally-managed install_data
+[0.981s] running egg_info
+[0.981s] writing ../build/learning_action/learning_action.egg-info/PKG-INFO
+[0.981s] writing dependency_links to ../build/learning_action/learning_action.egg-info/dependency_links.txt
+[0.981s] writing entry points to ../build/learning_action/learning_action.egg-info/entry_points.txt
+[0.981s] writing requirements to ../build/learning_action/learning_action.egg-info/requires.txt
+[0.981s] writing top-level names to ../build/learning_action/learning_action.egg-info/top_level.txt
+[0.982s] reading manifest file '../build/learning_action/learning_action.egg-info/SOURCES.txt'
+[0.983s] writing manifest file '../build/learning_action/learning_action.egg-info/SOURCES.txt'
+[0.983s] running build
+[0.983s] running build_py
+[0.983s] running install
+[0.983s] running install_lib
+[0.984s] running install_data
+[0.984s] running install_egg_info
+[0.985s] removing '/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action/lib/python3.10/site-packages/learning_action-0.0.0-py3.10.egg-info' (and everything under it)
+[0.986s] Copying ../build/learning_action/learning_action.egg-info to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action/lib/python3.10/site-packages/learning_action-0.0.0-py3.10.egg-info
+[0.986s] running install_scripts
+[1.000s] Installing action_move_client script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action/lib/learning_action
+[1.000s] Installing action_move_server script to /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action/lib/learning_action
+[1.000s] writing list of installed files to '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/install.log'
+[1.016s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/learning_action' returned '0': AMENT_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface LD_LIBRARY_PATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action/lib/python3.10/site-packages:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/learning_action build --build-base /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/build install --record /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_action/install.log --single-version-externally-managed install_data

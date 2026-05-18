@@ -1,0 +1,23 @@
+-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_pkg_c
+-- Install configuration: ""
+-- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/ament_index/resource_index/package_run_dependencies/learning_pkg_c
+-- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/ament_index/resource_index/parent_prefix_path/learning_pkg_c
+-- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/learning_pkg_c/environment/ament_prefix_path.sh
+-- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/learning_pkg_c/environment/ament_prefix_path.dsv
+-- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/learning_pkg_c/environment/path.sh
+-- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/learning_pkg_c/environment/path.dsv
+-- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/learning_pkg_c/local_setup.bash
+-- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/learning_pkg_c/local_setup.sh
+-- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/learning_pkg_c/local_setup.zsh
+-- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/learning_pkg_c/local_setup.dsv
+-- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/learning_pkg_c/package.dsv
+-- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/ament_index/resource_index/packages/learning_pkg_c
+-- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/learning_pkg_c/cmake/learning_pkg_cConfig.cmake
+-- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/learning_pkg_c/cmake/learning_pkg_cConfig-version.cmake
+-- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_c/share/learning_pkg_c/package.xml

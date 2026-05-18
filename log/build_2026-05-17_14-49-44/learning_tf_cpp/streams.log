@@ -1,0 +1,61 @@
+[2.063s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_python:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_parameter:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo_harmonic:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv:/opt/ros/humble /usr/bin/cmake --build /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp -- -j16 -l16
+[2.325s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.325s] -- Found geometry_msgs: 4.9.1 (/opt/ros/humble/share/geometry_msgs/cmake)
+[2.325s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.325s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.325s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.325s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.328s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.387s] -- Found rclcpp: 16.0.18 (/opt/ros/humble/share/rclcpp/cmake)
+[2.417s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.419s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.560s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.611s] -- Found tf2: 0.25.19 (/opt/ros/humble/share/tf2/cmake)
+[2.626s] -- Found tf2_ros: 0.25.19 (/opt/ros/humble/share/tf2_ros/cmake)
+[2.809s] -- Found turtlesim: 1.4.3 (/opt/ros/humble/share/turtlesim/cmake)
+[2.839s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.945s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.947s] -- Configured cppcheck include dirs: 
+[2.947s] -- Configured cppcheck exclude dirs and/or files: 
+[2.947s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.947s] -- Added test 'lint_cmake' to check CMake code style
+[2.947s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.948s] -- Added test 'uncrustify' to check C / C++ code style
+[2.952s] -- Configured uncrustify additional arguments: 
+[2.953s] -- Added test 'xmllint' to check XML markup files
+[2.954s] -- Configuring done
+[2.980s] -- Generating done
+[2.988s] -- Build files have been written to: /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp
+[3.009s] [35m[1mConsolidate compiler generated dependencies of target turtle_tf_broadcaster[0m
+[3.009s] [35m[1mConsolidate compiler generated dependencies of target turtle_following[0m
+[3.009s] [35m[1mConsolidate compiler generated dependencies of target tf_listener[0m
+[3.011s] [35m[1mConsolidate compiler generated dependencies of target static_tf_broadcaster[0m
+[3.025s] [ 25%] Built target static_tf_broadcaster
+[3.027s] [ 50%] Built target turtle_tf_broadcaster
+[3.027s] [ 75%] Built target turtle_following
+[3.028s] [100%] Built target tf_listener
+[3.565s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_python:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_parameter:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo_harmonic:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv:/opt/ros/humble /usr/bin/cmake --build /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp -- -j16 -l16
+[3.568s] Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_python:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_parameter:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo_harmonic:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv:/opt/ros/humble /usr/bin/cmake --install /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp
+[3.616s] -- Install configuration: ""
+[3.617s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/lib/learning_tf_cpp/static_tf_broadcaster
+[3.617s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/lib/learning_tf_cpp/turtle_tf_broadcaster
+[3.618s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/lib/learning_tf_cpp/tf_listener
+[3.619s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/lib/learning_tf_cpp/turtle_following
+[3.619s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp//launch
+[3.619s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp//launch/turtle_following_demo.launch.py
+[3.620s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/ament_index/resource_index/package_run_dependencies/learning_tf_cpp
+[3.620s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/ament_index/resource_index/parent_prefix_path/learning_tf_cpp
+[3.620s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/environment/ament_prefix_path.sh
+[3.620s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/environment/ament_prefix_path.dsv
+[3.620s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/environment/path.sh
+[3.620s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/environment/path.dsv
+[3.620s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.bash
+[3.620s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.sh
+[3.620s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.zsh
+[3.621s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.dsv
+[3.621s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/package.dsv
+[3.621s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/ament_index/resource_index/packages/learning_tf_cpp
+[3.621s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/cmake/learning_tf_cppConfig.cmake
+[3.621s] -- Up-to-date: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/cmake/learning_tf_cppConfig-version.cmake
+[3.622s] -- Installing: /home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf_cpp/share/learning_tf_cpp/package.xml
+[3.623s] Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_urdf:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_topic:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_tf:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_service:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_qos:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_pkg_python:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_parameter:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_node:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_launch:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_action:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo_harmonic:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_gazebo:/home/zhuzeyu/guyueju/ros2_21_tutorials/install/learning_cv:/opt/ros/humble /usr/bin/cmake --install /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_tf_cpp

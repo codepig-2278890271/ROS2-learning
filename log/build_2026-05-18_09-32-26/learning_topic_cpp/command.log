@@ -1,0 +1,4 @@
+Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp -- -j16 -l16
+Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp -- -j16 -l16
+Invoking command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp
+Invoked command in '/home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zhuzeyu/guyueju/ros2_21_tutorials/build/learning_topic_cpp
