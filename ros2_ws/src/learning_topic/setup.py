@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'learning_node'
+package_name = 'learning_topic'
 
 setup(
     name=package_name,
@@ -17,14 +17,11 @@ setup(
     maintainer_email='codepig_2278890271@163.com',
     description='TODO: Package description',
     license='TODO: License declaration',
-    extras_require={
-        'test': [
-            'pytest',
-        ],
-    },
     entry_points={
         'console_scripts': [
-            'timer_printer = learning_node.timer_printer:main',
+            'number_pub = learning_topic.number_publisher:main',
+            'number_sub = learning_topic.number_subscriber:main',
+            'patrol = learning_topic.patrol_robot:main',
         ],
     },
 )
