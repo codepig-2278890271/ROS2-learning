@@ -24,6 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'timer_printer = learning_node.timer_printer:main',
         ],
     },
 )
