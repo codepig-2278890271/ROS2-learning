@@ -25,6 +25,8 @@ setup(
     entry_points={
         'console_scripts': [
             'timer_printer = learning_node.timer_printer:main',
+            'number_pub = learning_node.number_publisher:main',
+            'number_sub = learning_node.number_subscriber:main',
         ],
     },
 )
