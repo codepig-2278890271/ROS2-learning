@@ -19,9 +19,8 @@ setup(
     license='TODO: License declaration',
     entry_points={
         'console_scripts': [
-            'number_pub = learning_topic.number_publisher:main',
-            'number_sub = learning_topic.number_subscriber:main',
-            'patrol = learning_topic.patrol_robot:main',
+            'number_publisher = learning_topic.number_publisher:main',
+            'number_subscriber = learning_topic.number_subscriber:main',
         ],
     },
 )
