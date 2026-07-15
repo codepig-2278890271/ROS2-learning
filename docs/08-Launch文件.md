@@ -326,11 +326,13 @@ setup(
         ('share/' + package_name, ['package.xml']),
         # ━━━ 注册 launch 文件 ━━━
         (os.path.join('share', package_name, 'launch'),
-         glob('launch/*.launch.py')),
+         glob('launch/*_launch.py')),
     ],
     # ...
 )
 ```
+
+> glob 用相对路径即可（colcon 构建时工作目录就是包源码目录）。模式是 `*_launch.py`（下划线），不是 `*.launch.py`（点号）。
 
 > 每新建一个带 launch 文件的包，都要加这段。不然 `ros2 launch` 找不到。
 
