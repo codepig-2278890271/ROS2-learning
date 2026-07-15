@@ -20,12 +20,13 @@
 #   - start.sh：独立终端，关了不影响其他节点，适合调试看 log
 
 # ── 配置 ──
-SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"  # 脚本所在目录（自动找，不用改）
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"  # scripts/ 目录
+WS_DIR="$(dirname "${SCRIPT_DIR}")"          # ros2_ws/ 目录
 
 # ── 弹新终端，在里面启动所有节点 ──
 gnome-terminal --title="话题通信" -- bash -c "
   # ① 必须先 source ROS2 环境
-  source ${SCRIPT_DIR}/install/setup.bash
+  source ${WS_DIR}/install/setup.bash
 
   # ② 运行 launch 文件
   # 格式：ros2 launch 包名 launch文件名
